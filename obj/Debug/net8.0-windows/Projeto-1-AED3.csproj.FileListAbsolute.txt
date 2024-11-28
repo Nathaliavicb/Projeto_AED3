@@ -1,0 +1,16 @@
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto_1_AED3.Form1.resources
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.csproj.GenerateResource.cache
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.AssemblyInfoInputs.cache
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.AssemblyInfo.cs
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.csproj.CoreCompileInputs.cache
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\bin\Debug\net8.0-windows\Projeto-1-AED3.exe
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\bin\Debug\net8.0-windows\Projeto-1-AED3.deps.json
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\bin\Debug\net8.0-windows\Projeto-1-AED3.runtimeconfig.json
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\bin\Debug\net8.0-windows\Projeto-1-AED3.dll
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\bin\Debug\net8.0-windows\Projeto-1-AED3.pdb
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.dll
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\refint\Projeto-1-AED3.dll
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.pdb
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\Projeto-1-AED3.genruntimeconfig.cache
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0-windows\ref\Projeto-1-AED3.dll

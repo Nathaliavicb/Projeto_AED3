@@ -1,0 +1,6 @@
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0.0-windows\Projeto_AED3.Form1.resources
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0.0-windows\Projeto-AED3.csproj.GenerateResource.cache
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0.0-windows\Projeto-AED3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0.0-windows\Projeto-AED3.AssemblyInfoInputs.cache
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0.0-windows\Projeto-AED3.AssemblyInfo.cs
+C:\Users\Nat\Downloads\Projeto_AED3-master\Projeto_AED3-master\Projeto\obj\Debug\net8.0.0-windows\Projeto-AED3.csproj.CoreCompileInputs.cache
