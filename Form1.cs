@@ -44,7 +44,39 @@ namespace Projeto_1_AED3
             var linhas = File.ReadAllLines("dicionario.txt", Encoding.GetEncoding("ISO-8859-1"));
             linhas[linhas.Length - 1] += palavra.ToLower() + ",";
             File.WriteAllLines("dicionario.txt", linhas, Encoding.GetEncoding("ISO-8859-1"));
+
+            BubbleSort();
+
         }
+        public static void BubbleSort()
+{
+            // Lendo o dicionário
+            var linhas = File.ReadAllLines("dicionario.txt", Encoding.GetEncoding("ISO-8859-1"));
+            int n = linhas.Length;
+
+            for (int i = 0; i < n - 1; i++)
+            {
+                for (int j = 0; j < n - i - 1; j++)
+                {
+                    // Separando as palavras nas linhas por vírgula
+                    var palavrasJ = linhas[j].Split(',');
+                    var palavrasJ1 = linhas[j + 1].Split(',');
+
+                    // Comparando o segundo termo (palavra após a vírgula)
+                    // Pode alterar o índice de acordo com a palavra que você deseja comparar
+                    if (string.Compare(palavrasJ[1], palavrasJ1[1]) > 0)
+                    {
+                        // Troca as linhas
+                        string temp = linhas[j];
+                        linhas[j] = linhas[j + 1];
+                        linhas[j + 1] = temp;
+                    }
+                }
+            }
+
+    // Escreve as linhas ordenadas de volta para o arquivo
+    File.WriteAllLines("dicionario.txt", linhas, Encoding.GetEncoding("ISO-8859-1"));
+}
 
         private async void richTextBox1_KeyDown(object sender, KeyEventArgs e)
         {
